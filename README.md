@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **VasiaKoum/VasiaKoum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![404_notfound](https://user-images.githubusercontent.com/26937033/87878070-aa9a7180-c9ea-11ea-99ca-e648396262b5.jpg)
+
